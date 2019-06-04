@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.shell.windows":"C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "vscode-simpler-icons",
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript",
+        "javascriptreact"
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.colorTheme": "Elements",
+    "files.autoSave": "onFocusChange",
+    "powermode.enabled": true,
+    "powermode.explosionSize": 10,
+}
